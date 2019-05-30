@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AlbumView.vue renders correctly 1`] = `"Fake Album It is not real 22 June Your Name  Next Fake Album Your Name ST. PETERSBURG Follow Vladislav"`;
